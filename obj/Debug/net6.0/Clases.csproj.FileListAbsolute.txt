@@ -1,0 +1,15 @@
+C:\Programación V\Clases\bin\Debug\net6.0\Clases.exe
+C:\Programación V\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Programación V\Clases\bin\Debug\net6.0\Clases.runtimeconfig.json
+C:\Programación V\Clases\bin\Debug\net6.0\Clases.dll
+C:\Programación V\Clases\bin\Debug\net6.0\ref\Clases.dll
+C:\Programación V\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.dll
+C:\Programación V\Clases\obj\Debug\net6.0\ref\Clases.dll
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Programación V\Clases\obj\Debug\net6.0\Clases.genruntimeconfig.cache
